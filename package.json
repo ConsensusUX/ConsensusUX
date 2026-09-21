@@ -1,0 +1,16 @@
+{
+  "name": "consensusux",
+  "private": true,
+  "description": "Open source infrastructure for consent-based decision-making",
+  "scripts": {
+    "dev": "turbo dev",
+    "build": "turbo build",
+    "lint": "turbo lint",
+    "test": "turbo test",
+    "clean": "turbo clean"
+  },
+  "devDependencies": {
+    "turbo": "^2"
+  },
+  "packageManager": "pnpm@9.15.0"
+}
